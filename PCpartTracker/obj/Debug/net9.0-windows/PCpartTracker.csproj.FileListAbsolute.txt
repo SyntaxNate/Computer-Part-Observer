@@ -1,0 +1,15 @@
+M:\Coding\C#\PCpartTracker\bin\Debug\net9.0-windows\PCpartTracker.exe
+M:\Coding\C#\PCpartTracker\bin\Debug\net9.0-windows\PCpartTracker.deps.json
+M:\Coding\C#\PCpartTracker\bin\Debug\net9.0-windows\PCpartTracker.runtimeconfig.json
+M:\Coding\C#\PCpartTracker\bin\Debug\net9.0-windows\PCpartTracker.dll
+M:\Coding\C#\PCpartTracker\bin\Debug\net9.0-windows\PCpartTracker.pdb
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.GeneratedMSBuildEditorConfig.editorconfig
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.AssemblyInfoInputs.cache
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.AssemblyInfo.cs
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.csproj.CoreCompileInputs.cache
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.sourcelink.json
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.dll
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\refint\PCpartTracker.dll
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.pdb
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\PCpartTracker.genruntimeconfig.cache
+M:\Coding\C#\PCpartTracker\obj\Debug\net9.0-windows\ref\PCpartTracker.dll
