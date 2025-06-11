@@ -17,6 +17,10 @@ namespace PCpartTracker
 
             bool running = true;
 
+            List<string> gpuList = new List<string>();
+
+
+
             while (running)
             {
                 Console.Clear();
@@ -31,10 +35,25 @@ namespace PCpartTracker
                 switch (input)
                 {
                     case "1":
-                        Console.WriteLine("\nCurrently tracked GPUs will appear here...");
+                        if (gpuList.Count == 0)
+                        {
+                            Console.WriteLine("\nNo GPUs have been added yet.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nCurrently tracked GPUs:");
+                            foreach (var gpu in gpuList)
+                            {
+                                Console.WriteLine($"- {gpu}");
+                            }
+                        }
                         break;
                     case "2":
                         Console.WriteLine("\nYou chose to add a new GPU.");
+                        Console.Write("Enter the name of the GPU:");
+                        string newGpu = Console.ReadLine();
+                        gpuList.Add(newGpu);
+                        Console.WriteLine($"GPU '{newGpu}' added to the list!");
                         break;
                     case "3":
                         Console.WriteLine("\nExiting the app. Have a Pleasant Day");
