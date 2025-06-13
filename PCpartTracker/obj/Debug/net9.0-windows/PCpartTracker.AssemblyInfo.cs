@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PCpartTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac3244a4bb5ac160f258569ff786c4b7a3f2ee3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cdc13c1340aca3a53a826c864629ed8468d368")]
 [assembly: System.Reflection.AssemblyProductAttribute("PCpartTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PCpartTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
